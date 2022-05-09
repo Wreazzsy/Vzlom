@@ -10,4 +10,4 @@
 +$ pip3 install -r requirements.txt
 
 
-$ python2
+$ python2 main.py
