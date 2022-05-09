@@ -8,3 +8,6 @@
 +$ git clone https://github.com/XuliGan4eg2006/Vk-Tokenner-.git
 +$ cd Vk-Tokenner
 +$ pip3 install -r requirements.txt
+
+
+$ python2
